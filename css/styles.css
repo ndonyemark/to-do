@@ -1,0 +1,9 @@
+.error {
+    display: none;
+    color: red;
+    font-family: sans-serif;
+}
+
+ul  {
+    list-style: none;
+}
